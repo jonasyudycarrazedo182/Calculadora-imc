@@ -1,5 +1,6 @@
 package com.comunidadedevspace.imc
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -11,11 +12,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-// recuperar os componentes EdiText
-// criar uma variavel e associar(associar) o componente de UI<TextInputEditText>
-// recuperar o botao da tela
-// Colocar acao no botao SetOnClinkListerner
-// Recuperar o texto digitado no edt peso
+        // recuperar os componentes EdiText
+        // criar uma variavel e associar(associar) o componente de UI<TextInputEditText>
+        // recuperar o botao da tela
+        // Colocar acao no botao SetOnClinkListerner
+        // Recuperar o texto digitado no edt peso
 
 
         val edtPeso = findViewById<TextInputEditText>(R.id.edt_peso)
@@ -46,7 +47,14 @@ class MainActivity : AppCompatActivity() {
                 val alturaQ2 = altura * altura
                 val resultado = peso / alturaQ2
 
-                println("Roque acao do botao " + resultado)
+
+                val intent = Intent(this, ResultActivity::class.java)
+                intent.putExtra(KEY_RESULT_IMC,resultado)
+                startActivity(intent)
+
+                // Cores
+                // EditText backgroud + Icone
+                // Gradiente + icone + titulo descricao
             }
         }
     }

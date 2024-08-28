@@ -22,13 +22,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
+        app:hintEnabled="false"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/edt_peso"
+            android:maxLength="6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/rouded_bc"
             android:hint="Digite o seu peso ex: 70.200"
             android:inputType="numberDecimal" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -44,6 +47,7 @@
             android:id="@+id/edt_altura"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/rouded_bc"
             android:hint="Digite a sua altura ex:1.70" />
     </com.google.android.material.textfield.TextInputLayout>
 
