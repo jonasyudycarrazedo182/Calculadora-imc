@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
 
                 // Cores
                 // EditText backgroud + Icone
-                // Gradiente + icone + titulo descricao
+                // Gradiente + icone + titulo  descricao
             }
         }
     }
