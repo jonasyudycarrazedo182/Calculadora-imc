@@ -16,9 +16,6 @@ class ResultActivity : AppCompatActivity() {
         setContentView(R.layout.activity_result)
 
         val result = intent.getFloatExtra(KEY_RESULT_IMC, 0f)
-        val voltarTelaPrincipal = Intent(this, MainActivity::class.java)
-        startActivity(voltarTelaPrincipal)
-        finish()
 
         val tvResult = findViewById<TextView>(R.id.tv_result)
         val tvClassificacao = findViewById<TextView>(R.id.tv_classificacao)
