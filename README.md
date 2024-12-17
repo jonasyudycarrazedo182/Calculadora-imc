@@ -6,8 +6,7 @@ Este proyecto es una aplicación nativa de Android desarrollada utilizando el le
 PORTUGUES:
 Este projeto é um aplicativo Android nativo desenvolvido utilizando a linguagem de programação Kotlin. A principal funcionalidade deste aplicativo é calcular o Índice de Massa Corporal (IMC) do usuário com base em dados inseridos, como peso e altura. Após o cálculo, o resultado é exibido em uma tela dedicada, que apresenta o valor do IMC e uma interpretação correspondente, como "Abaixo do Peso", "Peso Normal", "Sobrepeso" ou "Obesidade". O aplicativo oferece uma interface amigável e intuitiva, permitindo que os usuários insiram facilmente seus dados e obtenham resultados rápidos e precisos. Além disso, ele pode incluir informações adicionais sobre saúde e bem-estar, bem como sugestões personalizadas para melhorar a qualidade de vida com base nos resultados obtidos.
 
-![Screenshot_one]()
-![Screenshot_two]()
+
 
 ENGLISH:
 This project is a native Android application developed using the Kotlin programming language. The main functionality of this application is to calculate the user's Body Mass Index (BMI) based on entered data, such as weight and height. After the calculation, the result is displayed on a dedicated screen, showing the BMI value and a corresponding interpretation, such as "Underweight," "Normal weight," "Overweight," or "Obesity." The application offers a user-friendly and intuitive interface, allowing users to easily enter their data and obtain results quickly and accurately. Additionally, it may include additional information on health and wellness, as well as personalized suggestions to improve quality of life based on the results obtained.
