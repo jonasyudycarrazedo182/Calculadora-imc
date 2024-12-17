@@ -6,13 +6,15 @@ Este proyecto es una aplicación nativa de Android desarrollada utilizando el le
 PORTUGUES:
 Este projeto é um aplicativo Android nativo desenvolvido utilizando a linguagem de programação Kotlin. A principal funcionalidade deste aplicativo é calcular o Índice de Massa Corporal (IMC) do usuário com base em dados inseridos, como peso e altura. Após o cálculo, o resultado é exibido em uma tela dedicada, que apresenta o valor do IMC e uma interpretação correspondente, como "Abaixo do Peso", "Peso Normal", "Sobrepeso" ou "Obesidade". O aplicativo oferece uma interface amigável e intuitiva, permitindo que os usuários insiram facilmente seus dados e obtenham resultados rápidos e precisos. Além disso, ele pode incluir informações adicionais sobre saúde e bem-estar, bem como sugestões personalizadas para melhorar a qualidade de vida com base nos resultados obtidos.
 
+![Screenshot_one]()
+![Screenshot_two]()
 
 ENGLISH:
 This project is a native Android application developed using the Kotlin programming language. The main functionality of this application is to calculate the user's Body Mass Index (BMI) based on entered data, such as weight and height. After the calculation, the result is displayed on a dedicated screen, showing the BMI value and a corresponding interpretation, such as "Underweight," "Normal weight," "Overweight," or "Obesity." The application offers a user-friendly and intuitive interface, allowing users to easily enter their data and obtain results quickly and accurately. Additionally, it may include additional information on health and wellness, as well as personalized suggestions to improve quality of life based on the results obtained.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/f57e3440-1100-459b-af6d-0b557646929c" width=260/> <img src="https://github.com/user-attachments/assets/88d61378-9020-421a-be12-7d7a70f15e57" width=260/>
+<img src="https://github.com/user-attachments/assets/2dffa32c-00d3-44f3-97f4-6b366edb04dc" width=260/> <img src="https://github.com/user-attachments/assets/e55bd992-a637-4022-b600-4ea7feca869b" width=260/>
 
 Screenshots
 
