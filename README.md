@@ -6,7 +6,8 @@ Este proyecto es una aplicación nativa de Android desarrollada utilizando el le
 PORTUGUES:
 Este projeto é um aplicativo Android nativo desenvolvido utilizando a linguagem de programação Kotlin. A principal funcionalidade deste aplicativo é calcular o Índice de Massa Corporal (IMC) do usuário com base em dados inseridos, como peso e altura. Após o cálculo, o resultado é exibido em uma tela dedicada, que apresenta o valor do IMC e uma interpretação correspondente, como "Abaixo do Peso", "Peso Normal", "Sobrepeso" ou "Obesidade". O aplicativo oferece uma interface amigável e intuitiva, permitindo que os usuários insiram facilmente seus dados e obtenham resultados rápidos e precisos. Além disso, ele pode incluir informações adicionais sobre saúde e bem-estar, bem como sugestões personalizadas para melhorar a qualidade de vida com base nos resultados obtidos.
 
-![Screenshot_one]()
+
+![Screenshot_two]()
 
 
 ENGLISH:
@@ -14,7 +15,7 @@ This project is a native Android application developed using the Kotlin programm
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/cd5e708a-8d6f-4b0a-a353-439c8f8f6edd" width=260/> <img src="https://github.com/user-attachments/assets/e55bd992-a637-4022-b600-4ea7feca869b" width=260/>
+<img src="https://github.com/user-attachments/assets/cd5e708a-8d6f-4b0a-a353-439c8f8f6edd" width=260/> <img src="https://github.com/user-attachments/assets/4656124e-7cf6-4f47-8d1e-8943bdde9bd8" width=260/>
 
 Screenshots
 
